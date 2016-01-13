@@ -1,0 +1,6 @@
+*.mp3
+*.wav
+*.pyc
+datasets/*
+lame*
+input_audio_dataset/*
